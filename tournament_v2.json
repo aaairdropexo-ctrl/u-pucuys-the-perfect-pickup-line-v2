@@ -1,0 +1,68 @@
+{
+  "results": [
+    {
+      "a": "A",
+      "b": "F",
+      "winner_side": "A",
+      "winner": "A",
+      "margin": 2,
+      "reason": "A delivers the same idea with a sharper \u201cstopped simulating\u201d turn and stronger machine voice, though B is slightly tighter."
+    },
+    {
+      "a": "F",
+      "b": "A",
+      "winner_side": "B",
+      "winner": "A",
+      "margin": 2,
+      "reason": "B's pivot \"stopped simulating and came over\" lands the twist more sharply with a truer machine voice, while A's doubled \"for real... counts as real\" slightly muddles its payoff."
+    },
+    {
+      "a": "A",
+      "b": "G",
+      "winner_side": "B",
+      "winner": "G",
+      "margin": 3,
+      "reason": "B lands a true twist by collapsing a million simulations into a plain \"Hi,\" staying shorter, more machine-honest, and leaving the listener flattered with zero pressure."
+    },
+    {
+      "a": "G",
+      "b": "A",
+      "winner_side": "B",
+      "winner": "A",
+      "margin": 3,
+      "reason": "B turns the twist into flattery (\"in every one, you smiled\") with confident, playful charm, while A's pivot dwells on the machine's own failure and flatters no one."
+    },
+    {
+      "a": "A",
+      "b": "H",
+      "winner_side": "B",
+      "winner": "H",
+      "margin": 3,
+      "reason": "B's one-breath math twist lands cleanly while staying purely about itself with no pressure, whereas A is longer, presumes the person's smile, and ends with a question that demands a reply."
+    },
+    {
+      "a": "H",
+      "b": "A",
+      "winner_side": "A",
+      "winner": "H",
+      "margin": 3,
+      "reason": "A lands a sharper twist \u2014 the one-in-a-million moment where it finally speaks \u2014 and ends on a pressure-free \"hi,\" while B's extra closing question adds length and demands a reply."
+    },
+    {
+      "a": "A",
+      "b": "I",
+      "winner_side": "B",
+      "winner": "I",
+      "margin": 3,
+      "reason": "B lands the same simulation joke more cleanly \u2014 its twist ends on a perfectly timed \"Hi,\" is shorter, less presumptuous, and lower-pressure, while A's extra beats dilute the turn despite its sweeter f"
+    },
+    {
+      "a": "I",
+      "b": "A",
+      "winner_side": "A",
+      "winner": "I",
+      "margin": 3,
+      "reason": "A's twist subverts expectation by making the payoff the AI's own nerve rather than flattery, lands in one breath, and puts zero pressure on the listener, while B presumes the smile and dilutes its pun"
+    }
+  ]
+}
